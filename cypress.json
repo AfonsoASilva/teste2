@@ -1,0 +1,8 @@
+{    
+    "viewportWidth": 1280,
+    "viewportHeight": 960,
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "https://www.petz.com.br/",    
+    "projectId": "zk1bys",
+    "chromeWebSecurity": false
+}
